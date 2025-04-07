@@ -1,0 +1,12 @@
+.nav-icon:hover {
+    background-color: #663ffa;
+    color: white !important; 
+    padding: 8px; 
+    border-radius: 5px; 
+    transition: all 0.3s ease-in-out; /* Smooth hover effect */
+  }
+  .menu-link.no-icon {
+    padding-left: 40px; 
+  }
+  
+  
